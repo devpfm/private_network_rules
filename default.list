@@ -1,0 +1,16 @@
+host, www.adobe.com, proxy
+host-keyword, claude, us
+host-suffix, garmin.com, proxy
+host-suffix, rfa.org, proxy
+host-suffix, dw.com, proxy
+host-suffix, zaobao.com.sg, proxy
+host-suffix, perplexity.ai, us
+host-suffix, huggingface.co, us
+host, asia.wargaming.net, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 224.0.0.0/24, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 92.223.16.0/24, direct
+ip-cidr, 95.85.94.0/24, direct
