@@ -1,4 +1,5 @@
 host, www.adobe.com, proxy
+host-suffix, shareasale.com, proxy
 host-suffix, dw.com, proxy
 host-suffix, rfa.org, proxy
 host-suffix, garmin.com, proxy
