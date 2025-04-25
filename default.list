@@ -5,6 +5,7 @@ host-suffix, rfa.org, proxy
 host-suffix, garmin.com, proxy
 host-suffix, zaobao.com.sg, proxy
 host-suffix, memoriesofpatrickwinston.com, proxy
+host-suffix, 23img.com, proxy
 
 host-keyword, claude, us
 host-suffix, perplexity.ai, us
